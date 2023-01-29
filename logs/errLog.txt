@@ -1,0 +1,23 @@
+20230125	11:43:16	4be1f084-598a-486b-ac7a-6c836f6ee412	TypeError	fsPromises.readFil is not a function
+20230125	17:07:42	d8536e06-c165-424c-b544-5314d190bb30	Error: Not allowed by CORS
+20230125	18:52:29	8b38cfe7-4726-4c67-9ae7-e2cd9b04cecd	SyntaxError: Unexpected token h in JSON at position 0
+20230126	13:47:04	720295fa-5224-4cb4-9e28-6efe4cf722d5	SyntaxError: Unexpected token ' in JSON at position 1
+20230126	13:47:15	0d3e4411-fed7-4278-af6d-3659b461a374	SyntaxError: Unexpected token ' in JSON at position 14
+20230126	13:49:48	4d6cb1e0-9122-4996-950f-063a860970de	SyntaxError: Unexpected token f in JSON at position 10
+20230126	13:52:47	ef6c104d-976e-4091-a0a1-939c4760ce27	SyntaxError: Unexpected string in JSON at position 9
+20230126	17:19:12	6bd06ac4-082c-433f-8cab-0914ceafd0bf	SyntaxError: Unexpected end of JSON input
+20230126	20:12:11	51d1036c-0497-4b13-8c4f-00147b528c07	SyntaxError: Unexpected token " in JSON at position 0
+20230126	20:13:02	b41269cf-4e20-4a3c-b759-5542e71730a9	SyntaxError: Unexpected token e in JSON at position 0
+20230126	20:13:51	e30b2a6e-7986-4cae-a7bb-89aba1052e50	ReferenceError: authorization is not defined
+20230126	20:13:57	adea7745-f036-4ad2-8e45-48b97ad433fe	ReferenceError: authorization is not defined
+20230126	20:13:58	a737e222-fb0d-40b4-9226-ea75d96275d2	ReferenceError: authorization is not defined
+20230126	20:13:58	60cbac44-bdfa-4879-9ae9-1028539e8744	ReferenceError: authorization is not defined
+20230126	20:13:59	37e2517b-ba88-471a-b0a6-d7ceeaeddfa7	ReferenceError: authorization is not defined
+20230126	20:14:46	fa72fff1-29f8-4e4f-8f89-e8d1c877e23f	ReferenceError: authorization is not defined
+20230126	20:14:46	7eb3b31f-5a10-47f9-a738-d457a432e1c9	ReferenceError: authorization is not defined
+20230126	20:45:25	d67772b7-90e9-4884-bdab-d1fed9d96e92	ReferenceError: decoded is not defined
+20230126	20:46:57	9707b418-2045-4dc9-8f46-db8914eb0973	ReferenceError: decoded is not defined
+20230126	20:46:58	aae00362-ff87-48a1-8ae1-acdca9f09c44	ReferenceError: decoded is not defined
+20230126	21:15:19	672dcc05-d593-4df1-a0f7-ae7e89983d9a	ReferenceError: whitelist is not defined
+20230127	17:08:40	89eb5539-55ed-42b6-854e-f33c33b2150d	SyntaxError: Unexpected token d in JSON at position 9
+20230127	17:08:53	d6329194-f0b7-4f6e-8d96-f45dc2e3244a	SyntaxError: Unexpected token d in JSON at position 9
